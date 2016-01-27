@@ -172,6 +172,8 @@ public class AnimationClipMaker : EditorWindow
             // 出力
             PutAnimationClip(clipPath, sprites);
         }
+
+        errorText = "";
     }
 
     /// <summary>
