@@ -1,5 +1,6 @@
 # AnimationClipMaker
 Unity用のEditor拡張コード。Spite(Multiple)からtsvデータに従ってAnimationClipを生成します。
+生成部分は安藤圭吾氏のUnite2015のコードをそのまま利用させて頂いてます。(MIT LICENSE、ソース参照)
 
 - 機能<br>
 MultipleのSpriteから、tsvパラメータに従い、ごく単純なAnimationClipを生成します。<br>
