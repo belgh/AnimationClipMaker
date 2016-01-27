@@ -1,0 +1,2 @@
+# AnimationClipMaker
+Unity用のEditor拡張コード。Spite(Multiple)からtsvデータに従ってAnimationClipを生成します。
