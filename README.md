@@ -1,4 +1,5 @@
 # AnimationClipMaker
+http://belhb.hateblo.jp/entry/2016/01/27/233135
 Unity用のEditor拡張コード。Spite(Multiple)からtsvデータに従ってAnimationClipを生成します。<br>
 生成部分は安藤圭吾氏のUnite2015のコードをそのまま利用させて頂いてます。(MIT LICENSE、ソース参照)
 
@@ -23,4 +24,5 @@ Assets配下に「Editor」フォルダを作成し、AnimationClipMakerを配�
 
 C#もUnityも覚えたてにつき、<br>
 色々覚えて数年後に綺麗にできるといいなぁと言うノリで中身ぐちゃぐちゃです。<br>
-ご自由にいじって下さい。。そして参考にさせて頂きたく。
+こういうのがググって引っかからなかったので晒してみました。<br>
+ご自由にいじって下さい。
